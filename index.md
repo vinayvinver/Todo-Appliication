@@ -1,19 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to My Github page
 
 You can use the [editor on GitHub](https://github.com/vinayvinver/Todo-Appliication/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To use my project of Todo Application you can download the Zip file in my repo 
+and then install the node packages by using command "npm install" in your command promt
+
+Then follow the instructions mentioned in the below Readme
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lightweight and easy-to-use syntax ...
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
